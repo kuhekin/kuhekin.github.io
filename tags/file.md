@@ -1,5 +1,5 @@
 ---
 layout: tag
-tag: file
-permalink: /tag/file/
+tag: file1
+permalink: /tag/file1/
 ---
